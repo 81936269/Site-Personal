@@ -1,1 +1,1 @@
-Para abrir o site completo basta clicar apenas em Index que estará o site completo.
+Ao fazer dowload do projeto e quando executar basta somente clicar em index que abre o site completo.
